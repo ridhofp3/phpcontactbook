@@ -32,4 +32,5 @@ steps:
 timeout: '1200s'
 
 # Where to put build log
+option:
 logging: CLOUD_LOGGING_ONLY
